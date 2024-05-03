@@ -96,7 +96,7 @@ structure NotAuthorizedError {
 
 There is nothing authentication specific about this error, this is a standard smithy http error that will have a 401 status code when returned.
 
-If you want to see the full smithy model we defined above, you can do so [here](@GITHUB_BRANCH_URL@modules/guides/smithy/auth.smithy).
+If you want to see the full smithy model we defined above, you can do so [here](@GITHUB_BRANCH_URL@sampleSpecs/auth-guide.smithy).
 
 ## Server-side Middleware
 
